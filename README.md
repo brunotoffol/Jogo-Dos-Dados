@@ -6,7 +6,7 @@ Jogo onde o jogador compete contra o computador via rolagem de dados com o objet
 
 ### Exemplo
 
-![]()
+![](https://i.imgur.com/LcwzBPH.gif)
 
 ### Funcionalidades
 
