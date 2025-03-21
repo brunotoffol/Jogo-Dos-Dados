@@ -3,8 +3,8 @@
     /** Versão 1 - Estrutura Básica e simulação de dados
     *  Exibir um Banner para o Jogo de Dados [X]
     *  Implementar a geração de números aleatórios para simular um dado (1-6) [X]
-    *  * Exibir o resultado do lançamento do dado [X]
-    *  * Permitir que o usuário pressione Enter para lançar o dado [X]
+    *  Exibir o resultado do lançamento do dado [X]
+    *  Permitir que o usuário pressione Enter para lançar o dado [X]
     **/
 
     /** Versão 2 - Controle de posição do jogador
@@ -19,7 +19,7 @@
      * Implementar o evento de recuo extra nas posições 7, 13, 20 [X]
      * Exibir mensagens informativas quando os eventos ocorrerem [X]
      * Atualizar a posição do jogador conforme as regras de evento [X]
-     * Exibir nova posição
+     * Exibir nova posição [X]
      **/
 
     /** Versão 4 - Incluir o computador como concorrente
@@ -115,7 +115,7 @@
                     }
 
                     //Rodada do Computador 
-                    Console.WriteLine("\n\n---------------------------------");
+                    Console.WriteLine("\n---------------------------------");
                     Console.WriteLine("Iniciando a rodada do Computador");
                     Console.WriteLine("---------------------------------");
                     Console.Write("Pressione ENTER para visualizar a rodada do computador");
